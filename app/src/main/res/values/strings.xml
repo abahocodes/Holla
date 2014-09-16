@@ -5,4 +5,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    <string name="share_button_label" translateable="false">SHARE</string>
+    <string name="discover_button_label" translateable="false">DISCOVER</string>
+
 </resources>
